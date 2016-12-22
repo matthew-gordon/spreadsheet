@@ -1,0 +1,11 @@
+{
+  "name": "spreadsheet",
+  "version": "1.0.0",
+  "main": "app.js",
+  "script": {
+    "start": "open index.html"
+  },
+  "repository": "git@github.com:matthew-gordon/spreadsheet.git",
+  "author": "Matthew Gordon <laxredemption5525@gmail.com>",
+  "license": "MIT"
+}
